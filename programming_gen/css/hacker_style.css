@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(0, 0, 0);
+    color: hsl(95, 77%, 50%);
+    font-family: monospace;
+    font-size: large;
+}
+.center-text,.paddle-link {
+    text-align: center;
+}
+
+.paddle-link,.biscuit{
+    padding-top: 4cm;
+    
+}
+
+.biscuit {
+    height: auto;
+    width: 350px;
+    margin-left: 41%;
+    
+}
+
+
+a:link,
+a:visited,
+a:hover,
+a:active { text-decoration: none; }
+
+
